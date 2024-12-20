@@ -1,0 +1,1 @@
+select * from WORK_ROLE
